@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+background: linera-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5))
+background-image:url("travel2.jpg");
+background-size:cover;
+background:position:center;
+}
+
+input[type=text]
+{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+.login-box{
+max-width:700px;
+float:none;
+margin:100px auto;
+background: rgba(211,211,211,0.5);
+
+}
+
+input[type=email]
+{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+input[type=radio]
+{
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+input[type=password]
+{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+
