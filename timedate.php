@@ -4,7 +4,7 @@ session_start();
 if(!isset($_SESSION['fname']))
 {
     echo "you are logged out";
-    header('location:home.php');
+    header('location:index.php');
 }
 ?>
 
