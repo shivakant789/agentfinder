@@ -121,7 +121,7 @@ span.password {
 <body>
     <div class="header">
         <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="login.php">Login as Customer</a></li>
         <li><a href="Registration.php">Register as Customer</a></li>
         <li><a href="Agentlogin.php">Login as Agent</a></li>
